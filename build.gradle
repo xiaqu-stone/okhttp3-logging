@@ -5,7 +5,7 @@ android {
     compileSdkVersion conf.compileSdkVersion
 
     defaultConfig {
-        minSdkVersion conf.minSdkVersion
+        minSdkVersion 15
         targetSdkVersion conf.targetSdkVersion
         versionCode conf.versionCode
         versionName conf.versionName
@@ -37,7 +37,7 @@ ext {
     libraryName = 'okhttp3-logging'
     artifact = 'okhttp3-logging'
 
-    libraryVersion = '1.0.2'
+    libraryVersion = '1.0.3'
 
     libraryDescription = 'Okhttp3 LoggingIntercept自定义Logs JSON 输出'
 

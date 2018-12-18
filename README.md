@@ -1,7 +1,7 @@
 
 
 ```
-implementation "com.sqq.xiaqu:okhttp3-logging:1.0.2"
+implementation "com.sqq.xiaqu:okhttp3-logging:1.0.3"
 ```
 
 
